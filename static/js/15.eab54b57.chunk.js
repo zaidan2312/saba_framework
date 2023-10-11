@@ -1,0 +1,2 @@
+(this["webpackJsonpvuexy-react-admin-dashboard"]=this["webpackJsonpvuexy-react-admin-dashboard"]||[]).push([[15],{154:function(e,a,s){"use strict";s.r(a);var t=s(0),n=s(103),r=s(2);a.default=function(){var e=Object(n.a)().t;return Object(r.jsxs)(t.Fragment,{children:[Object(r.jsx)("h3",{children:e("Roles List")}),Object(r.jsx)("p",{className:"mb-2",children:e("A role provides access to predefined menus and features depending on the assigned role to an administrator that can have access to what he needs.")})]})}}}]);
+//# sourceMappingURL=15.eab54b57.chunk.js.map
