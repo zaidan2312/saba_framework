@@ -2,9 +2,7 @@
   "pageType": "crud",
   "pageTitle": "Mahasiswa",
   "crudOpt": {
-    "endpointName": "http://localhost:5000/AsetLKI_KIBA",
-    "serverSideGrid": true,
-    "fixedHeader": true,
-    "fixedHeaderScrollHeight": "350px"
+    "endpointName": "https://globaldata-api.insaba.co.id/demoMahasiswa",
+    "detailFromGrid": true
   }
 }

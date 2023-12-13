@@ -1,2 +1,0 @@
-(this["webpackJsonpsaba-react-framework"]=this["webpackJsonpsaba-react-framework"]||[]).push([[15],{183:function(e,a,s){"use strict";s.r(a);var t=s(0),r=s(121),n=s(2);a.default=function(){var e=Object(r.a)().t;return Object(n.jsxs)(t.Fragment,{children:[Object(n.jsx)("h3",{children:e("Roles List")}),Object(n.jsx)("p",{className:"mb-2",children:e("A role provides access to predefined menus and features depending on the assigned role to an administrator that can have access to what he needs.")})]})}}}]);
-//# sourceMappingURL=15.5b8c182d.chunk.js.map
