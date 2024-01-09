@@ -151,6 +151,7 @@
   "Documentation": "Documentation",
   "Documents": "Documents",
   "Dokumen": "Documents",
+  "Domain Registration": "Domain Registration",
   "Drag & Drop": "Drag & Drop",
   "Drop Files here or click to upload": "Drop Files here or click to upload",
   "Drop files here or click": "Drop files here or click",
@@ -1055,5 +1056,6 @@
   "Expiration Date": "Expiration Date",
   "Physical Item": "Physical Item",
   "Color": "Color",
-  "Volume Item": "Volume Item"
+  "Volume Item": "Volume Item",
+  "New Page": "New Page"
 }
